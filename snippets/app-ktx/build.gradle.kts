@@ -66,7 +66,7 @@ dependencies {
     // [END_EXCLUDE]
 
     // KTX for the Maps SDK for Android library
-    implementation("com.google.maps.android:maps-ktx:5.1.1")
+    implementation("com.google.maps.android:maps-ktx:5.2.0")
 }
 // [END maps_android_ktx_install_snippet]
 

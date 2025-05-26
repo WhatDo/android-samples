@@ -14,7 +14,7 @@ navigation = "2.8.5"
 rxlifecycleAndroidLifecycleKotlin = "4.0.2"
 volley = "1.2.1"
 lifecycleRuntime = "2.8.7"
-places = "4.1.0"
+places = "4.2.0"
 
 [libraries]
 espresso-core = { module = "androidx.test.espresso:espresso-core", version.ref = "espressoCore" }
